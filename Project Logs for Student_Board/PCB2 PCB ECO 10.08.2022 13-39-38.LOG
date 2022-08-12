@@ -1,0 +1,306 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=NetBM1_1 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=DA2-2
+Removed Pin From Net: NetName=NetC7_2 Pin=DA2-3
+Removed Pin From Net: NetName=5V Pin=DA2-6
+Removed Pin From Net: NetName=5V Pin=R9-1
+Removed Pin From Net: NetName=NetC2_1 Pin=R9-2
+Removed Pin From Net: NetName=5V Pin=R10-1
+Removed Pin From Net: NetName=NetC2_2 Pin=R10-2
+Removed Pin From Net: NetName=5V Pin=R11-1
+Removed Pin From Net: NetName=NetBM1_1 Pin=R11-2
+Removed Pin From Net: NetName=NetC2_1 Pin=R12-1
+Removed Pin From Net: NetName=NetC5_2 Pin=R12-2
+Removed Pin From Net: NetName=NetC2_2 Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=NetC4_2 Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=NetDA2_7 Pin=R15-1
+Removed Pin From Net: NetName=5V Pin=R17-2
+Removed Pin From Net: NetName=NetC6_1 Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=NetC2_1 Pin=TP3-1
+Removed Pin From Net: NetName=NetC5_2 Pin=TP4-1
+Removed Pin From Net: NetName=NetC6_1 Pin=TP5-1
+Removed Pin From Net: NetName=NetC2_2 Pin=VT1-1
+Removed Pin From Net: NetName=NetC4_2 Pin=VT1-2
+Removed Pin From Net: NetName=NetC5_2 Pin=VT2-1
+Removed Pin From Net: NetName=GND Pin=VT2-2
+Removed Pin From Net: NetName=NetC2_1 Pin=VT2-3
+Removed Pin From Net: NetName=NetDA2_7 Pin=VT3-3
+Removed Pin From Net: NetName=NetDA2_7 Pin=X5-1
+Removed Member From Class: ClassName=Sheet1 Member=BM1
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=C3
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Removed Member From Class: ClassName=Sheet1 Member=C5
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=C7
+Removed Member From Class: ClassName=Sheet1 Member=DA1
+Removed Member From Class: ClassName=Sheet1 Member=DA2
+Removed Member From Class: ClassName=Sheet1 Member=L1
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Removed Member From Class: ClassName=Sheet1 Member=R10
+Removed Member From Class: ClassName=Sheet1 Member=R11
+Removed Member From Class: ClassName=Sheet1 Member=R12
+Removed Member From Class: ClassName=Sheet1 Member=R13
+Removed Member From Class: ClassName=Sheet1 Member=R14
+Removed Member From Class: ClassName=Sheet1 Member=R15
+Removed Member From Class: ClassName=Sheet1 Member=R16
+Removed Member From Class: ClassName=Sheet1 Member=R17
+Removed Member From Class: ClassName=Sheet1 Member=R18
+Removed Member From Class: ClassName=Sheet1 Member=R19
+Removed Member From Class: ClassName=Sheet1 Member=TP3
+Removed Member From Class: ClassName=Sheet1 Member=TP4
+Removed Member From Class: ClassName=Sheet1 Member=TP5
+Removed Member From Class: ClassName=Sheet1 Member=VT1
+Removed Member From Class: ClassName=Sheet1 Member=VT2
+Removed Member From Class: ClassName=Sheet1 Member=VT3
+Removed Member From Class: ClassName=Sheet1 Member=VT4
+Removed Member From Class: ClassName=Sheet1 Member=X5
+Removed Member From Class: ClassName=Sheet1 Member=X8
+Change Component Footprint: Designator=C6 Old Footprint=B_CASE New Footprint=C_0603
+Change Component Footprint: Designator=C1 Old Footprint=C_0603 New Footprint=B_CASE
+Change Component Footprint: Designator=C3 Old Footprint=C_0603 New Footprint=B_CASE
+Change Component Footprint: Designator=R7 Old Footprint=R_0402 New Footprint=R_0603
+Change Component Footprint: Designator=R8 Old Footprint=R_0402 New Footprint=R_0603
+Change Component Footprint: Designator=R3 Old Footprint=R_0805 New Footprint=R_0603
+Change Component Footprint: Designator=R4 Old Footprint=R_0805 New Footprint=R_0603
+Change Component Footprint: Designator=R1 Old Footprint=R_1206 New Footprint=R_0603
+Change Component Footprint: Designator=X5 Old Footprint=Solder_jumper New Footprint=KT
+Change Component Footprint: Designator=VT3 Old Footprint= “-26 New Footprint=SOT23
+Change Component Comment : Designator=C1 Old Comment=10 New Comment=100 ÏÍ
+Change Component Comment : Designator=C3 Old Comment=10 New Comment=100 ÏÍ
+Change Component Comment : Designator=R10 Old Comment=22 New Comment=10 Í
+Change Component Comment : Designator=C7 Old Comment=680 New Comment=10
+Change Component Comment : Designator=C2 Old Comment=0,1 ÏÍ New Comment=680
+Change Component Comment : Designator=R17 Old Comment=1 New Comment=10 Í
+Change Component Comment : Designator=R6 Old Comment=1 Í New Comment=4.7Í
+Change Component Comment : Designator=R5 Old Comment=1 Í New Comment=10 Í
+Change Component Comment : Designator=R9 Old Comment=4.7Í New Comment=1Ã
+Change Component Comment : Designator=R8 Old Comment=10 New Comment=10 Í
+Change Component Comment : Designator=R7 Old Comment=10 New Comment=22
+Change Component Comment : Designator=R3 Old Comment=10 Í New Comment=1
+Change Component Comment : Designator=R11 Old Comment=10 Í New Comment=100
+Change Component Comment : Designator=R1 Old Comment=100 New Comment=180
+Change Component Comment : Designator=C6 Old Comment=100 ÏÍ New Comment=10
+Change Component Comment : Designator=R16 Old Comment=160 New Comment=10 Í
+Change Component Comment : Designator=VT3 Old Comment=BC557 New Comment=BC847
+Change Component Comment : Designator=DA1 Old Comment=LM358 New Comment=MC34063
+Change Component Comment : Designator=DA2 Old Comment=MC34063 New Comment=LM358
+Change Component Comment : Designator=X5 Old Comment=Solder_jumper New Comment= “
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C_0603"; UniqueID = "\ETMCQVRX" ("\ETMCQVRX")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Tantalum Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://datasheets.avx.com/TAJ.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TAJB107K004RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C_0603"; UniqueID = "\YEOJIRYD" ("\YEOJIRYD")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Tantalum Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://datasheets.avx.com/TAJ.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TAJB107K004RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "B_CASE"; UniqueID = "\KELTPDNG" ("\KELTPDNG")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capasitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R_1206"; UniqueID = "\OGNCBHVF" ("\OGNCBHVF")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 Í"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R_0805"; UniqueID = "\HMHLYEUF" ("\HMHLYEUF")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 Í"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R_0805"; UniqueID = "\QHHOLLIZ" ("\QHHOLLIZ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 Í"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R_0603"; UniqueID = "\EQNZREKK" ("\EQNZREKK")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 Í"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R_0603"; UniqueID = "\EZJLTJAL" ("\EZJLTJAL")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 Í"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R_0402"; UniqueID = "\HMVWSEXU" ("\HMVWSEXU")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 Í"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R_0402"; UniqueID = "\QCIAYAXG" ("\QCIAYAXG")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 Í"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C_0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Capasitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C_0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Capasitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C_0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Capasitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(Test_point)
+Added Component: Designator=TP7(Test_point)
+Add Component: Footprint Not Found unknown component
+Add Component: Footprint Not Found unknown component
+Added Component: Designator=X9(Solder_jumper)
+Added Component: Designator=X10(Solder_jumper)
+Added Component: Designator=X11(KT)
+Added Component: Designator=X12(KT)
+Added Component: Designator=X13(KT)
+Added Component: Designator=X14(KT)
+Added Component: Designator=X15(KT)
+Add Component: Footprint Not Found unknown component
+Added Component: Designator=X17(Solder_jumper)
+Added Component: Designator=X18(KT)
+Added Component: Designator=X19(Solder_jumper)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C6-2
+Added Pin To Net: NetName=NetC4_2 Pin=C7-1
+Added Pin To Net: NetName=NetBM1_1 Pin=C8-1
+Added Pin To Net: NetName=NetC2_2 Pin=DA1-3
+Added Pin To Net: NetName=NetC2_1 Pin=DA1-4
+Added Pin To Net: NetName=5V Pin=DA1-6
+Added Pin To Net: NetName=NetC4_2 Pin=L1-1
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=5V Pin=R6-1
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=NetC5_2 Pin=R7-2
+Added Pin To Net: NetName=5V Pin=R8-1
+Added Pin To Net: NetName=NetBM1_1 Pin=R8-2
+Added Pin To Net: NetName=NetC5_2 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetC7_2 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=NetDA2_7 Pin=R19-2
+Added Pin To Net: NetName=NetDA2_7 Pin=TP6-1
+Added Pin To Net: NetName=NetC5_2 Pin=VT3-1
+Added Pin To Net: NetName=NetC7_2 Pin=VT3-2
+Added Pin To Net: NetName=NetC4_2 Pin=VT3-3
+Added Pin To Net: NetName=GND Pin=VT4-2
+Added Pin To Net: NetName=5V Pin=X5-1
+Add Pin To Net: Unknown Pin: Pin X7-1
+Added Pin To Net: NetName=NetC2_1 Pin=X9-1
+Added Pin To Net: NetName=GND Pin=X9-2
+Added Pin To Net: NetName=NetC2_1 Pin=X10-2
+Added Pin To Net: NetName=5V Pin=X11-1
+Added Pin To Net: NetName=GND Pin=X12-1
+Added Pin To Net: NetName=NetC6_1 Pin=X13-1
+Added Pin To Net: NetName=GND Pin=X14-1
+Added Pin To Net: NetName=GND Pin=X15-1
+Added Pin To Net: NetName=GND Pin=X19-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R6-2
+Added Pin To Net: NetName=NetC5_1 Pin=R9-1
+Added Pin To Net: NetName=NetC5_1 Pin=TP4-1
+Added Pin To Net: NetName=NetC5_1 Pin=VT4-3
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R9-2
+Added Pin To Net: NetName=NetC8_2 Pin=TP5-1
+Added Pin To Net: NetName=NetC8_2 Pin=VT4-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=TP7-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=C13-1
+Added Pin To Net: NetName=NetC12_2 Pin=R19-1
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=DA2-5
+Added Pin To Net: NetName=NetC13_2 Pin=R18-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=X17-1
+Added Net: Name=NetDA1_1
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=X8-1
+Added Pin To Net: NetName=NetDA1_2 Pin=X19-1
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_5 Pin=R4-2
+Added Pin To Net: NetName=NetDA1_5 Pin=R5-1
+Added Net: Name=NetDA1_5
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_7 Pin=R1-1
+Added Pin To Net: NetName=NetDA1_7 Pin=R3-1
+Added Net: Name=NetDA1_7
+Added Pin To Net: NetName=NetDA1_8 Pin=DA1-8
+Added Pin To Net: NetName=NetDA1_8 Pin=R1-2
+Added Net: Name=NetDA1_8
+Added Pin To Net: NetName=NetDA2_6 Pin=DA2-6
+Added Pin To Net: NetName=NetDA2_6 Pin=R16-1
+Added Pin To Net: NetName=NetDA2_6 Pin=R17-2
+Added Net: Name=NetDA2_6
+Added Pin To Net: NetName=NetX6_1 Pin=X8-2
+Added Pin To Net: NetName=NetX6_1 Pin=X17-2
+Added Net: Name=NetX6_1
+Added Pin To Net: NetName=OUT Pin=C1-1
+Added Pin To Net: NetName=OUT Pin=R4-1
+Added Pin To Net: NetName=OUT Pin=X10-1
+Added Pin To Net: NetName=OUT Pin=X18-1
+Added Net: Name=OUT
+Added Class: Name=Sheet2
+Added Class: Name=Sheet3
+Added Class: Name=Sheet5
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet5

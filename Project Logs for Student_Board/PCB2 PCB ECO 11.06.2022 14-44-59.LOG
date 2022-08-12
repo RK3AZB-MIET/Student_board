@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=GND Pin=BM?-2
+Added Net: Name=GND
+Added Member To Class: ClassName=Sheet1 Member=Component DA? LM358
+Added Member To Class: ClassName=Sheet1 Member=Component DA? MC34063
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10 ê
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1 ê
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10 ê
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1 ê
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10
+Added Member To Class: ClassName=Sheet1 Member=Component TP? Test_Point_1
+Added Member To Class: ClassName=Sheet1 Member=Component X? X
+Added Member To Class: ClassName=Sheet1 Member=Component X? X
+Added Member To Class: ClassName=Sheet1 Member=Component X? X
+Added Room: Name=Sheet1

@@ -1,0 +1,55 @@
+Added Component: Designator=BM?(EM6050P)
+Added Component: Designator=C?(C_0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Capasitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(SO-8)
+Added Component: Designator=DA?(SO-8)
+Added Component: Designator=DA?(SO-8)
+Added Component: Designator=R?(R_0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1001ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Added Component: Designator=R?(R_0805)
+Added Component: Designator=R?(R_0402)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_0805)
+Added Component: Designator=R?(R_0402)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_0603)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1001ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R_1206)
+Added Component: Designator=TP?(Test_point)
+Added Component: Designator=TP?(Test_point)
+Added Component: Designator=X?(KT_1)
+Added Component: Designator=X?(KT_1)
+Added Component: Designator=X?(KT_1)
+Added Component: Designator=X?(KT_1)
+Added Pin To Net: NetName=AGND Pin=BM?-2
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=X?-1
+Added Net: Name=AGND
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
