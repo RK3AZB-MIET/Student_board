@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetR4_1 Pin=X5-1
+Removed Pin From Net: NetName=NetR4_1 Pin=X5-2
+Removed Member From Class: ClassName=USB_Protection Member=X10
+Removed Member From Class: ClassName=DC-DC Member=X18
+Removed Member From Class: ClassName=Radio_bug Member=X23
+Removed Member From Class: ClassName=Amplifier Member=X29
+Removed Member From Class: ClassName=Operational_amplifier Member=X41
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X5-2
+Added Member To Class: ClassName=USB_Protection Member=Component X5 0 ฮ์
+Added Member To Class: ClassName=DC-DC Member=Component X6 U-C
+Added Member To Class: ClassName=DC-DC Member=Component X7 Solder_jumper_3
+Added Member To Class: ClassName=DC-DC Member=Component X8 Solder_jumper
+Added Member To Class: ClassName=DC-DC Member=Component X9 Solder_jumper_3
+Added Member To Class: ClassName=DC-DC Member=Component X11 U-C
+Added Member To Class: ClassName=DC-DC Member=Component X12 0 ฮ์
+Added Member To Class: ClassName=DC-DC Member=Component X13 0 ฮ์
+Added Member To Class: ClassName=DC-DC Member=Component X15 สา
+Added Member To Class: ClassName=DC-DC Member=Component X16 สา
+Added Member To Class: ClassName=Radio_bug Member=Component X18 0 ฮ์
+Added Member To Class: ClassName=Radio_bug Member=Component X19 0 ฮ์
+Added Member To Class: ClassName=Radio_bug Member=Component X20 สา
+Added Member To Class: ClassName=Radio_bug Member=Component X22 สา
+Added Member To Class: ClassName=Amplifier Member=Component X23 0 ฮ์
+Added Member To Class: ClassName=Amplifier Member=Component X24 สา
+Added Member To Class: ClassName=Amplifier Member=Component X26 สา
+Added Member To Class: ClassName=Amplifier Member=Component X28 0 ฮ์
+Added Member To Class: ClassName=Operational_amplifier Member=Component X29 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X30 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X31 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X32 Solder_jumper_3
+Added Member To Class: ClassName=Operational_amplifier Member=Component X33 Solder_jumper_3
+Added Member To Class: ClassName=Operational_amplifier Member=Component X35 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X37 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X40 สา
+Added Member To Class: ClassName=Multivibrator Member=Component X42 สา

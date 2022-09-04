@@ -1,0 +1,8 @@
+Added Component: Designator=X20(PLS-1)
+Added Component: Designator=X21(PLS-1)
+Added Pin To Net: NetName=GND Pin=DA2-4
+Added Pin To Net: NetName=5V Pin=DA2-8
+Added Pin To Net: NetName=GND Pin=X20-1
+Added Pin To Net: NetName=5V Pin=X21-1
+Added Member To Class: ClassName=Operational_amplifier Member=Component X20 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X21 สา

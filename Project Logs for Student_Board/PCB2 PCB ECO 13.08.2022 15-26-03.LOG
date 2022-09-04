@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=X5 Old Footprint=KT New Footprint=PLS-1
+Change Component Footprint: Designator=X11 Old Footprint=KT New Footprint=PLS-1
+Change Component Footprint: Designator=X12 Old Footprint=KT New Footprint=PLS-1
+Change Component Footprint: Designator=X13 Old Footprint=KT New Footprint=PLS-1
+Change Component Footprint: Designator=X14 Old Footprint=KT New Footprint=PLS-1
+Change Component Footprint: Designator=X15 Old Footprint=KT New Footprint=PLS-1
+Change Component Footprint: Designator=X18 Old Footprint=KT New Footprint=PLS-1
+Change Component Footprint: Designator=TP1 Old Footprint=Test_point New Footprint=PLS-1
+Change Component Footprint: Designator=TP2 Old Footprint=Test_point New Footprint=PLS-1
+Change Component Footprint: Designator=TP4 Old Footprint=Test_point New Footprint=PLS-1
+Change Component Footprint: Designator=TP5 Old Footprint=Test_point New Footprint=PLS-1
+Change Component Footprint: Designator=TP6 Old Footprint=Test_point New Footprint=PLS-1
+Change Component Footprint: Designator=TP7 Old Footprint=Test_point New Footprint=PLS-1
+Change Component Designator: OldDesignator=  NewDesignator=VT6
+Added Room: Name=DC-DC
+Added Room: Name=Operational_amplifier
+Added Room: Name=Radio_bug
+Added Room: Name=USB_Protection

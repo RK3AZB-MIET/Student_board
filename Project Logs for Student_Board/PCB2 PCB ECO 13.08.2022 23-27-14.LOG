@@ -1,0 +1,58 @@
+Add Component: Footprint Not Found B_CASE
+Add Component: Footprint Not Found B_CASE
+Add Component: Footprint Not Found LED_0805_RED
+Add Component: Footprint Not Found LED_0805_RED
+Added Component: Designator=R2(R_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Added Component: Designator=X22(PLS-1)
+Added Component: Designator=X23(PLS-1)
+Add Pin To Net: Unknown Pin: Pin HL2-1
+Add Pin To Net: Unknown Pin: Pin HL3-1
+Added Pin To Net: NetName=5V Pin=R12-1
+Added Pin To Net: NetName=5V Pin=R13-1
+Add Pin To Net: Unknown Pin: Pin VT1-2
+Add Pin To Net: Unknown Pin: Pin VT2-2
+Added Pin To Net: NetName=5V Pin=X22-1
+Added Pin To Net: NetName=GND Pin=X23-1
+Added Pin To Net: NetName=NetC9_1 Pin=R12-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=R2-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_1 Pin=R13-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=R14-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetHL2_2 Pin=R2-1
+Added Net: Name=NetHL2_2
+Added Pin To Net: NetName=NetHL3_2 Pin=R14-1
+Added Net: Name=NetHL3_2
+Added Class: Name=Multivibrator
+Added Room: Name=Multivibrator

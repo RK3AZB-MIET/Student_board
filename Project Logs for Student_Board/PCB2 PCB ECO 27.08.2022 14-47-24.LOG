@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=DA1-6
+Removed Pin From Net: NetName=5V Pin=R5-2
+Removed Member From Class: ClassName=Multivibrator Member=C9
+Removed Member From Class: ClassName=Multivibrator Member=R1
+Removed Member From Class: ClassName=DC-DC Member=R9
+Removed Member From Class: ClassName=Multivibrator Member=R16
+Removed Member From Class: ClassName=DC-DC Member=R20
+Removed Member From Class: ClassName=Radio_bug Member=R20
+Removed Member From Class: ClassName=Radio_bug Member=R22
+Removed Member From Class: ClassName=Multivibrator Member=VT2
+Removed Member From Class: ClassName=USB_Protection Member=VT5
+Removed Member From Class: ClassName=Radio_bug Member=X5
+Removed Member From Class: ClassName=Radio_bug Member=X15
+Removed Member From Class: ClassName=DC-DC Member=X17
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=DA1-6
+Added Pin To Net: NetName=NetC1_1 Pin=R5-2
+Added Pin To Net: NetName=NetC1_1 Pin=X11-2
+Added Pin To Net: NetName=NetC1_1 Pin=X12-1
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=DC-DC Member=Component C3 100 ÏÍ
+Added Member To Class: ClassName=Radio_bug Member=Component C6 10
+Added Member To Class: ClassName=Radio_bug Member=Component C8 10
+Added Member To Class: ClassName=Operational_amplifier Member=Component C10 10
+Added Member To Class: ClassName=Multivibrator Member=Component C12 10 ÏÍ
+Added Member To Class: ClassName=DC-DC Member=Component R5 1
+Added Member To Class: ClassName=DC-DC Member=Component R7 10 Í
+Added Member To Class: ClassName=DC-DC Member=Component R8 10 Í
+Added Member To Class: ClassName=Radio_bug Member=Component R10 1Ã
+Added Member To Class: ClassName=Radio_bug Member=Component R11 4.7Í
+Added Member To Class: ClassName=Radio_bug Member=Component R12 22
+Added Member To Class: ClassName=Radio_bug Member=Component R14 100
+Added Member To Class: ClassName=Operational_amplifier Member=Component R18 10 Í
+Added Member To Class: ClassName=Multivibrator Member=Component R19 300
+Added Member To Class: ClassName=Multivibrator Member=Component R21 27 Í
+Added Member To Class: ClassName=USB_Protection Member=Component VT1 BCX54-16,115
+Added Member To Class: ClassName=Radio_bug Member=Component VT3 BC847
+Added Member To Class: ClassName=Multivibrator Member=Component VT6 BC847
+Added Member To Class: ClassName=DC-DC Member=Component X5 U-C
+Added Member To Class: ClassName=DC-DC Member=Component X6 Solder_jumper_3
+Added Member To Class: ClassName=DC-DC Member=Component X7 Solder_jumper
+Added Member To Class: ClassName=DC-DC Member=Component X9 U-C
+Added Member To Class: ClassName=DC-DC Member=Component X10 U-C
+Added Member To Class: ClassName=DC-DC Member=Component X11 0 ŒÏ
+Added Member To Class: ClassName=DC-DC Member=Component X13  “
+Added Member To Class: ClassName=Radio_bug Member=Component X16 0 ŒÏ
+Added Member To Class: ClassName=Radio_bug Member=Component X18  “
+Added Member To Class: ClassName=Radio_bug Member=Component X19  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X20 0 ŒÏ
+Added Member To Class: ClassName=Operational_amplifier Member=Component X22  “
+Added Member To Class: ClassName=Multivibrator Member=Component X23  “
+Added Member To Class: ClassName=Multivibrator Member=Component X24  “

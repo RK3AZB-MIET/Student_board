@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=DA2-8
+Removed Pin From Net: NetName=5V Pin=X21-1
+Added Component: Designator=X26(Solder_jumper)
+Added Pin To Net: NetName=5V Pin=X26-2
+Added Pin To Net: NetName=NetDA2_8 Pin=DA2-8
+Added Pin To Net: NetName=NetDA2_8 Pin=X21-1
+Added Pin To Net: NetName=NetDA2_8 Pin=X26-1
+Added Net: Name=NetDA2_8
+Added Member To Class: ClassName=Operational_amplifier Member=Component X26 Solder_jumper

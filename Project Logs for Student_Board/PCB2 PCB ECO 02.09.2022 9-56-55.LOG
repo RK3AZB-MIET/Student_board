@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetC11_1 Pin=C1-1
+Added Pin To Net: NetName=NetC11_1 Pin=DA1-6
+Added Pin To Net: NetName=NetC11_1 Pin=R5-2
+Added Pin To Net: NetName=NetC11_1 Pin=X13-2
+Added Pin To Net: NetName=NetC11_1 Pin=X14-1
+Change Net Name : Old Net Name=NetC11_1 New Net Name=+5V via amplifer

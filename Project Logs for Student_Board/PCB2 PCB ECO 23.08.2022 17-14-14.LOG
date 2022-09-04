@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=X5-1
+Added Component: Designator=X24(Solder_jumper)
+Added Pin To Net: NetName=5V Pin=X24-1
+Added Pin To Net: NetName=NetX5_1 Pin=X5-1
+Added Pin To Net: NetName=NetX5_1 Pin=X24-2
+Added Net: Name=NetX5_1
+Added Member To Class: ClassName=DC-DC Member=Component X24 Solder_jumper

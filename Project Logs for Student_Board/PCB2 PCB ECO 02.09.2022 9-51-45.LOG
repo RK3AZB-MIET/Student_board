@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=X33-1
+Removed Pin From Net: NetName=GND Pin=X33-2
+Removed Member From Class: ClassName=Operational_amplifier Member=X33

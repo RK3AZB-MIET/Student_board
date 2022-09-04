@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=X32-3
+Removed Member From Class: ClassName=Operational_amplifier Member=X40
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=X33 NewDesignator=X32
+Change Component Designator: OldDesignator=X34 NewDesignator=X33
+Change Component Designator: OldDesignator=X36 NewDesignator=X34
+Change Component Designator: OldDesignator=X37 NewDesignator=X36
+Change Component Designator: OldDesignator=X38 NewDesignator=X37
+Change Component Designator: OldDesignator=X39 NewDesignator=X38
+Change Component Designator: OldDesignator=X40 NewDesignator=X39
+Change Component Designator: OldDesignator=X41 NewDesignator=X40
+Change Component Designator: OldDesignator=X42 NewDesignator=X41
+Change Component Designator: OldDesignator=X43 NewDesignator=X42
+Change Component Designator: OldDesignator=X44 NewDesignator=X43
+Added Component: Designator=R19(R_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA2_2 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R22-2
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR20_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=X29-1
+Added Net: Name=NetR19_2
+Added Member To Class: ClassName=Operational_amplifier Member=Component R28 1 ê

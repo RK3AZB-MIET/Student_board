@@ -1,0 +1,6 @@
+Added Component: Designator=X30(R_0805)
+Added Pin To Net: NetName=VCC Pin=X30-1
+Added Pin To Net: NetName=NetHL2_1 Pin=X30-2
+Change Net Name : Old Net Name=NetHL2_1 New Net Name=+5 unh
+Change Net Name : Old Net Name=VCC New Net Name=NetC11_1
+Added Member To Class: ClassName=Amplifier Member=Component X30 0 Îì

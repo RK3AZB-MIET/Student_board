@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=Amplifier Member=C13
+Removed Member From Class: ClassName=Amplifier Member=C14
+Removed Member From Class: ClassName=Amplifier Member=C15
+Removed Member From Class: ClassName=Amplifier Member=C16
+Removed Member From Class: ClassName=Amplifier Member=R23
+Removed Member From Class: ClassName=Operational_amplifier Member=R23
+Removed Member From Class: ClassName=Amplifier Member=R24
+Removed Member From Class: ClassName=Operational_amplifier Member=R24
+Removed Member From Class: ClassName=Amplifier Member=R25
+Removed Member From Class: ClassName=Operational_amplifier Member=R25
+Removed Member From Class: ClassName=Amplifier Member=R26
+Removed Member From Class: ClassName=Operational_amplifier Member=R26
+Removed Member From Class: ClassName=Amplifier Member=VT8
+Removed Member From Class: ClassName=Amplifier Member=VT9
+Removed Member From Class: ClassName=Amplifier Member=X25
+Removed Member From Class: ClassName=Amplifier Member=X26
+Removed Member From Class: ClassName=Amplifier Member=X27
+Removed Member From Class: ClassName=Amplifier Member=X28
+Removed Member From Class: ClassName=Operational_amplifier Member=X28
+Change Component Footprint: Designator=R18 Old Footprint=ׁ1-4 New Footprint=R_0805
+Add Component: Footprint Not Found B_CASE
+Add Component: Footprint Not Found B_CASE
+Add Component: Footprint Not Found B_CASE
+Added Component: Designator=X20(PLS-1)
+Added Component: Designator=X21(PLS-1)
+Added Component: Designator=X22(PLS-1)
+Added Component: Designator=X23(PLS-1)
+Add Component: Footprint Not Found PJ-307
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Added Pin To Net: NetName=VCC Pin=X20-1
+Added Pin To Net: NetName=GND Pin=X21-1
+Added Pin To Net: NetName=VCC Pin=X22-1
+Added Pin To Net: NetName=NetC12_1 Pin=X23-1
+Add Pin To Net: Unknown Pin: Pin XS1-1
+Add Pin To Net: Unknown Pin: Pin XS1-2
+Add Pin To Net: Unknown Pin: Pin XS1-5
+Added Member To Class: ClassName=Amplifier Member=Component C9 0,033לך
+Add Class Member: Failed to add class member : Component C10 10לך
+Add Class Member: Failed to add class member : Component C11 100 לך
+Add Class Member: Failed to add class member : Component C12 100 לך
+Added Member To Class: ClassName=Amplifier Member=Component R15 1ך
+Added Member To Class: ClassName=Amplifier Member=Component R16 1ך
+Added Member To Class: ClassName=Amplifier Member=Component R17 510
+Added Member To Class: ClassName=Amplifier Member=Component R18 100ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R19 10 ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R20 10 ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R21 10 ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R22 10 ך
+Added Member To Class: ClassName=Amplifier Member=Component VT5 BC847A
+Added Member To Class: ClassName=Amplifier Member=Component VT6 BCX54-16
+Added Member To Class: ClassName=Amplifier Member=Component X20 Êׂ
+Added Member To Class: ClassName=Amplifier Member=Component X21 Êׂ
+Added Member To Class: ClassName=Amplifier Member=Component X22 Êׂ
+Added Member To Class: ClassName=Amplifier Member=Component X23 Êׂ
+Added Member To Class: ClassName=Operational_amplifier Member=Component X24 0 ־ל
+Add Class Member: Failed to add class member : Component XS1 PJ-307

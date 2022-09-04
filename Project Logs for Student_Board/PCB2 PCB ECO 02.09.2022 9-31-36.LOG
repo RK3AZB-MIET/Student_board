@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=+5 operat Pin=X19-2
+Removed Pin From Net: NetName=+5 unh Pin=X28-2
+Removed Pin From Net: NetName=+5 mult Pin=X42-2
+Removed Member From Class: ClassName=Operational_amplifier Member=R29
+Added Pin To Net: NetName=5V Pin=X42-2
+Change Net Name : Old Net Name=+5 operat New Net Name=NetDA2_8
+Change Net Name : Old Net Name=+5 unh New Net Name=NetHL2_1
+Added Member To Class: ClassName=Operational_amplifier Member=Component R19 1Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R20 1Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R22 1Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R24 10 Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R25 10 Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R27 10 Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R28 1 Í
+Added Member To Class: ClassName=Multivibrator Member=Component R30 27 Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component X32 Solder_jumper_3
+Added Member To Class: ClassName=Operational_amplifier Member=Component X36  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X38  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X39  “
+Added Member To Class: ClassName=Multivibrator Member=Component X41  “
+Added Member To Class: ClassName=Multivibrator Member=Component X43 0 ŒÏ

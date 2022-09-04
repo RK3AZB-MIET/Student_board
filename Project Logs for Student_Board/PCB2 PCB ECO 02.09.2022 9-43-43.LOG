@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetHL2_1 Pin=X19-2
+Change Net Name : Old Net Name=NetHL2_1 New Net Name=+5V via multi
+Added Member To Class: ClassName=Multivibrator Member=Component X5 0 Îì

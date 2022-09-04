@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C2 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C4 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C5 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C6 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C7 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C8 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C12 Old Footprint=C_0603 New Footprint=C_0805
+Change Component Footprint: Designator=C13 Old Footprint=C_0603 New Footprint=C_0805
+Add Component: Footprint Not Found unknown component
+Add Component: Footprint Not Found unknown component
+Add Component: Footprint Not Found unknown component
+Add Pin To Net: Unknown Pin: Pin X6-1
+Add Pin To Net: Unknown Pin: Pin X6-2
+Add Pin To Net: Unknown Pin: Pin X7-1
+Add Pin To Net: Unknown Pin: Pin X7-2
+Add Pin To Net: Unknown Pin: Pin X16-1
+Add Pin To Net: Unknown Pin: Pin X16-2
+Add Class Member: Failed to add class member : Component X6 U-C
+Add Class Member: Failed to add class member : Component X7 U-C
+Add Class Member: Failed to add class member : Component X16 U-C

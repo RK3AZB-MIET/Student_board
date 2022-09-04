@@ -1,0 +1,12 @@
+Added Component: Designator=X6(R_0805)
+Added Component: Designator=X7(R_0805)
+Added Component: Designator=X16(R_0805)
+Added Pin To Net: NetName=NetX6_1 Pin=X6-1
+Added Pin To Net: NetName=OUT Pin=X6-2
+Added Pin To Net: NetName=GND Pin=X7-1
+Added Pin To Net: NetName=NetX6_1 Pin=X7-2
+Added Pin To Net: NetName=NetDA1_7 Pin=X16-1
+Added Pin To Net: NetName=NetDA1_1 Pin=X16-2
+Added Member To Class: ClassName=DC-DC Member=Component X6 U-C
+Added Member To Class: ClassName=DC-DC Member=Component X7 U-C
+Added Member To Class: ClassName=DC-DC Member=Component X16 U-C

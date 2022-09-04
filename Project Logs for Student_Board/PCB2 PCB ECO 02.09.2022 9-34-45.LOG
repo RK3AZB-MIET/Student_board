@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=X5-1
+Removed Pin From Net: NetName=GND Pin=X5-2
+Removed Member From Class: ClassName=USB_Protection Member=X5
+Change Component Designator: OldDesignator=X43 NewDesignator=X5

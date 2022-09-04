@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=Operational_amplifier Member=C16
+Removed Member From Class: ClassName=Operational_amplifier Member=R28
+Removed Member From Class: ClassName=Operational_amplifier Member=R29
+Removed Member From Class: ClassName=Operational_amplifier Member=R30
+Removed Member From Class: ClassName=Operational_amplifier Member=R31
+Removed Member From Class: ClassName=Amplifier Member=X30
+Removed Member From Class: ClassName=Operational_amplifier Member=X37
+Removed Member From Class: ClassName=Operational_amplifier Member=X38
+Change Component Designator: OldDesignator=X30 NewDesignator=X32
+Change Component Designator: OldDesignator=X32 NewDesignator=X33
+Change Component Designator: OldDesignator=X33 NewDesignator=X34
+Change Component Designator: OldDesignator=X34 NewDesignator=X35
+Change Component Designator: OldDesignator=X35 NewDesignator=X36
+Change Component Designator: OldDesignator=X36 NewDesignator=X37
+Change Component Designator: OldDesignator=X37 NewDesignator=X38
+Change Component Designator: OldDesignator=X38 NewDesignator=X39
+Added Component: Designator=X30(R_0805)
+Added Pin To Net: NetName=GND Pin=X30-1
+Added Pin To Net: NetName=GND Pin=X30-2
+Added Member To Class: ClassName=Operational_amplifier Member=Component C15 0,10
+Added Member To Class: ClassName=Operational_amplifier Member=Component R19 1Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R20 1k
+Added Member To Class: ClassName=Operational_amplifier Member=Component R21 1Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R23 10 Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R25 1Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R26 10 Í
+Added Member To Class: ClassName=Amplifier Member=Component X24 0 ŒÏ
+Added Member To Class: ClassName=Operational_amplifier Member=Component X25  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X26  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X27  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X28 Solder_jumper_3
+Added Member To Class: ClassName=Operational_amplifier Member=Component X29 Solder_jumper_3

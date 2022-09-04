@@ -1,0 +1,38 @@
+Added Component: Designator=C9(B_CASE)
+Add component (AddParameter): Name = "Component Type"; Value = "Tantalum Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://datasheets.avx.com/TAJ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TAJB107K004RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(B_CASE)
+Add component (AddParameter): Name = "Component Type"; Value = "Tantalum Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://datasheets.avx.com/TAJ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TAJB107K004RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(LED_0805_RED)
+Added Component: Designator=HL3(LED_0805_RED)
+Added Component: Designator=VT1(SOT23)
+Added Component: Designator=VT2(SOT23)
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=5V Pin=HL2-1
+Added Pin To Net: NetName=NetHL2_2 Pin=HL2-2
+Added Pin To Net: NetName=5V Pin=HL3-1
+Added Pin To Net: NetName=NetHL3_2 Pin=HL3-2
+Added Pin To Net: NetName=NetC10_1 Pin=VT1-1
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=NetC9_2 Pin=VT1-3
+Added Pin To Net: NetName=NetC9_1 Pin=VT2-1
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=NetC10_2 Pin=VT2-3
+Added Member To Class: ClassName=Multivibrator Member=Component C9 10 ìê
+Added Member To Class: ClassName=Multivibrator Member=Component C10 10 ìê
+Added Member To Class: ClassName=Multivibrator Member=Component HL2 BL-LS0805UHR
+Added Member To Class: ClassName=Multivibrator Member=Component HL3 BL-LS0805UHR
+Added Member To Class: ClassName=Multivibrator Member=Component VT1 BC847
+Added Member To Class: ClassName=Multivibrator Member=Component VT2 BC847

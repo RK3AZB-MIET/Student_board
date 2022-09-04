@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=HL2-1
+Removed Pin From Net: NetName=5V Pin=HL3-1
+Removed Pin From Net: NetName=5V Pin=R12-1
+Removed Pin From Net: NetName=5V Pin=R13-1
+Removed Pin From Net: NetName=5V Pin=X22-1
+Added Component: Designator=X25(Solder_jumper)
+Added Pin To Net: NetName=5V Pin=X25-2
+Added Pin To Net: NetName=NetHL2_1 Pin=HL2-1
+Added Pin To Net: NetName=NetHL2_1 Pin=HL3-1
+Added Pin To Net: NetName=NetHL2_1 Pin=R12-1
+Added Pin To Net: NetName=NetHL2_1 Pin=R13-1
+Added Pin To Net: NetName=NetHL2_1 Pin=X22-1
+Added Pin To Net: NetName=NetHL2_1 Pin=X25-1
+Added Net: Name=NetHL2_1
+Added Member To Class: ClassName=Multivibrator Member=Component X25 Solder_jumper

@@ -1,0 +1,22 @@
+Added Component: Designator=R17(R_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found unknown component
+Add Component: Footprint Not Found unknown component
+Add Component: Footprint Not Found unknown component
+Added Pin To Net: NetName=NetDA2_7 Pin=R17-1
+Added Pin To Net: NetName=NetDA2_6 Pin=R17-2
+Add Pin To Net: Unknown Pin: Pin X6-1
+Add Pin To Net: Unknown Pin: Pin X6-2
+Add Pin To Net: Unknown Pin: Pin X7-1
+Add Pin To Net: Unknown Pin: Pin X7-2
+Add Pin To Net: Unknown Pin: Pin X16-1
+Add Pin To Net: Unknown Pin: Pin X16-2
+Added Member To Class: ClassName=Operational_amplifier Member=Component R17 10 ê
+Add Class Member: Failed to add class member : Component X6 U-C
+Add Class Member: Failed to add class member : Component X7 U-C
+Add Class Member: Failed to add class member : Component X16 U-C

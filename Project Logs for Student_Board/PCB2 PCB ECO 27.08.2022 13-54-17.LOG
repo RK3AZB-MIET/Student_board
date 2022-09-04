@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=NetDA1_2 Pin=X8-1
+Removed Pin From Net: NetName=NetX6_1 Pin=X8-2
+Removed Pin From Net: NetName=NetC2_1 Pin=X9-1
+Removed Pin From Net: NetName=GND Pin=X9-2
+Removed Pin From Net: NetName=OUT Pin=X10-1
+Removed Pin From Net: NetName=NetC2_1 Pin=X10-2
+Removed Pin From Net: NetName=NetDA1_2 Pin=X19-1
+Removed Pin From Net: NetName=GND Pin=X19-2
+Removed Pin From Net: NetName=5V Pin=X24-1
+Removed Pin From Net: NetName=NetDA2_8 Pin=X26-1
+Removed Pin From Net: NetName=5V Pin=X26-2
+Removed Pin From Net: NetName=5V Pin=X27-2
+Removed Member From Class: ClassName=DC-DC Member=X16
+Removed Member From Class: ClassName=DC-DC Member=X17
+Removed Member From Class: ClassName=DC-DC Member=X19
+Removed Member From Class: ClassName=DC-DC Member=X24
+Removed Member From Class: ClassName=Operational_amplifier Member=X26
+Removed Member From Class: ClassName=Radio_bug Member=X27
+Change Component Footprint: Designator=X8 Old Footprint=Solder_jumper New Footprint=double_jumper
+Change Component Footprint: Designator=X25 Old Footprint=Solder_jumper New Footprint=R_0805
+Change Component Comment : Designator=X25 Old Comment=Solder_jumper New Comment=0 ฮ์
+Change Component Comment : Designator=X8 Old Comment=Solder_jumper New Comment=Solder_jumper_3
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C4
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=C10 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=R1 NewDesignator=R6
+Change Component Designator: OldDesignator=R2 NewDesignator=R19
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R7
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R11
+Change Component Designator: OldDesignator=R7 NewDesignator=R12
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R20
+Change Component Designator: OldDesignator=R13 NewDesignator=R21
+Change Component Designator: OldDesignator=R14 NewDesignator=R22
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R16
+Change Component Designator: OldDesignator=R20 NewDesignator=R2
+Change Component Designator: OldDesignator=R21 NewDesignator=R1
+Change Component Designator: OldDesignator=R22 NewDesignator=R3
+Change Component Designator: OldDesignator=R23 NewDesignator=R4
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP5
+Change Component Designator: OldDesignator=VT1 NewDesignator=VT5
+Change Component Designator: OldDesignator=VT2 NewDesignator=VT6
+Change Component Designator: OldDesignator=VT3 NewDesignator=VT4
+Change Component Designator: OldDesignator=VT4 NewDesignator=VT3
+Change Component Designator: OldDesignator=VT5 NewDesignator=VT1
+Change Component Designator: OldDesignator=VT6 NewDesignator=VT2
+Change Component Designator: OldDesignator=X5 NewDesignator=X12
+Change Component Designator: OldDesignator=X6 NewDesignator=X10
+Change Component Designator: OldDesignator=X7 NewDesignator=X9
+Change Component Designator: OldDesignator=X11 NewDesignator=X18
+Change Component Designator: OldDesignator=X12 NewDesignator=X19
+Change Component Designator: OldDesignator=X13 NewDesignator=X17
+Change Component Designator: OldDesignator=X14 NewDesignator=X13
+Change Component Designator: OldDesignator=X15 NewDesignator=X14
+Change Component Designator: OldDesignator=X16 NewDesignator=X5
+Change Component Designator: OldDesignator=X17 NewDesignator=X7
+Change Component Designator: OldDesignator=X18 NewDesignator=X15
+Change Component Designator: OldDesignator=X20 NewDesignator=X22
+Change Component Designator: OldDesignator=X22 NewDesignator=X23
+Change Component Designator: OldDesignator=X23 NewDesignator=X24
+Added Component: Designator=X6(double_jumper)
+Added Component: Designator=X11(R_0805)
+Added Component: Designator=X16(R_0805)
+Added Component: Designator=X20(R_0805)
+Added Pin To Net: NetName=OUT Pin=X6-1
+Added Pin To Net: NetName=NetC2_1 Pin=X6-2
+Added Pin To Net: NetName=GND Pin=X6-3
+Added Pin To Net: NetName=NetX6_1 Pin=X8-1
+Added Pin To Net: NetName=NetDA1_2 Pin=X8-2
+Added Pin To Net: NetName=GND Pin=X8-3
+Added Pin To Net: NetName=5V Pin=X11-1
+Added Pin To Net: NetName=5V Pin=X16-2
+Added Pin To Net: NetName=NetDA2_8 Pin=X20-1
+Added Pin To Net: NetName=5V Pin=X20-2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetX6_1 New Net Name=NetX7_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=L1-2
+Added Pin To Net: NetName=NetC6_1 Pin=X16-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetX11_2 Pin=X11-2
+Added Pin To Net: NetName=NetX11_2 Pin=X12-1
+Added Net: Name=NetX11_2
+Added Member To Class: ClassName=DC-DC Member=Component X11 0 ฮ์
+Added Member To Class: ClassName=DC-DC Member=Component X12 สา
+Added Member To Class: ClassName=Radio_bug Member=Component X16 0 ฮ์
+Added Member To Class: ClassName=Operational_amplifier Member=Component X22 สา

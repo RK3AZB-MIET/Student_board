@@ -1,0 +1,52 @@
+Removed Member From Class: ClassName=Operational_amplifier Member=X37
+Change Component Designator: OldDesignator=X11 NewDesignator=X12
+Change Component Designator: OldDesignator=X12 NewDesignator=X13
+Change Component Designator: OldDesignator=X13 NewDesignator=X14
+Change Component Designator: OldDesignator=X14 NewDesignator=X15
+Change Component Designator: OldDesignator=X15 NewDesignator=X16
+Change Component Designator: OldDesignator=X16 NewDesignator=X18
+Change Component Designator: OldDesignator=X17 NewDesignator=X19
+Change Component Designator: OldDesignator=X18 NewDesignator=X20
+Change Component Designator: OldDesignator=X19 NewDesignator=X21
+Change Component Designator: OldDesignator=X20 NewDesignator=X23
+Change Component Designator: OldDesignator=X21 NewDesignator=X24
+Change Component Designator: OldDesignator=X22 NewDesignator=X25
+Change Component Designator: OldDesignator=X23 NewDesignator=X26
+Change Component Designator: OldDesignator=X24 NewDesignator=X27
+Change Component Designator: OldDesignator=X25 NewDesignator=X28
+Change Component Designator: OldDesignator=X26 NewDesignator=X29
+Change Component Designator: OldDesignator=X27 NewDesignator=X30
+Change Component Designator: OldDesignator=X28 NewDesignator=X31
+Change Component Designator: OldDesignator=X29 NewDesignator=X32
+Change Component Designator: OldDesignator=X30 NewDesignator=X33
+Change Component Designator: OldDesignator=X31 NewDesignator=X34
+Change Component Designator: OldDesignator=X32 NewDesignator=X35
+Change Component Designator: OldDesignator=X33 NewDesignator=X36
+Change Component Designator: OldDesignator=X34 NewDesignator=X37
+Change Component Designator: OldDesignator=X35 NewDesignator=X38
+Change Component Designator: OldDesignator=X36 NewDesignator=X39
+Change Component Designator: OldDesignator=X37 NewDesignator=X40
+Change Component Designator: OldDesignator=X38 NewDesignator=X41
+Change Component Designator: OldDesignator=X39 NewDesignator=X42
+Added Component: Designator=X11(R_0805)
+Added Component: Designator=X17(R_0805)
+Added Component: Designator=X22(R_0805)
+Added Component: Designator=X43(R_0805)
+Added Pin To Net: NetName=GND Pin=X11-1
+Added Pin To Net: NetName=GND Pin=X11-2
+Added Pin To Net: NetName=GND Pin=X17-1
+Added Pin To Net: NetName=GND Pin=X17-2
+Added Pin To Net: NetName=GND Pin=X22-1
+Added Pin To Net: NetName=GND Pin=X22-2
+Added Pin To Net: NetName=GND Pin=X43-1
+Added Pin To Net: NetName=GND Pin=X43-2
+Change Net Name : Old Net Name=NetX25_1 New Net Name=NetX28_1
+Change Net Name : Old Net Name=NetX26_1 New Net Name=NetX29_1
+Added Member To Class: ClassName=DC-DC Member=Component X16 สา
+Added Member To Class: ClassName=Radio_bug Member=Component X21 สา
+Added Member To Class: ClassName=Amplifier Member=Component X25 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X33 0 ฮ์
+Added Member To Class: ClassName=Operational_amplifier Member=Component X36 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X39 สา
+Added Member To Class: ClassName=Multivibrator Member=Component X41 สา
+Added Member To Class: ClassName=Multivibrator Member=Component X43 0 ฮ์

@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=VT6 Old Footprint=SOT23 New Footprint=SOT89
+Change Component Footprint: Designator=VT7 Old Footprint=SOT23 New Footprint=SOT89
+Change Component Comment : Designator=TP1 Old Comment=+5V New Comment=Test_Point_1
+Change Component Comment : Designator=X12 Old Comment=+5V New Comment=สา
+Change Component Comment : Designator=X18 Old Comment=+5V New Comment=สา
+Change Component Comment : Designator=X20 Old Comment=+5V New Comment=สา
+Change Component Comment : Designator=X25 Old Comment=+5V New Comment=สา
+Change Component Comment : Designator=X27 Old Comment=+5V New Comment=สา
+Change Component Comment : Designator=X17 Old Comment=Ant New Comment=สา
+Change Component Comment : Designator=TP2 Old Comment=GND New Comment=Test_Point_1
+Change Component Comment : Designator=X13 Old Comment=GND New Comment=สา
+Change Component Comment : Designator=X14 Old Comment=GND New Comment=สา
+Change Component Comment : Designator=X19 Old Comment=GND New Comment=สา
+Change Component Comment : Designator=X21 Old Comment=GND New Comment=สา
+Change Component Comment : Designator=X26 Old Comment=GND New Comment=สา
+Change Component Comment : Designator=X28 Old Comment=GND New Comment=สา
+Change Component Comment : Designator=TP5 Old Comment=IN New Comment=Test_Point_1
+Change Component Comment : Designator=TP6 Old Comment=OUT New Comment=Test_Point_1
+Change Component Comment : Designator=X15 Old Comment=V_OUT New Comment=สา

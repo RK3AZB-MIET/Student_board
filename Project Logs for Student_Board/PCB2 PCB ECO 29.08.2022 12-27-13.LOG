@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=5V Pin=X18-1
+Added Pin To Net: NetName=NetDA2_8 Pin=X18-1
+Change Net Name : Old Net Name=NetDA2_8 New Net Name=+5 operat
