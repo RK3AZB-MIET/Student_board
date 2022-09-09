@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5V via amplifer Pin=X12-1
+Added Pin To Net: NetName=NetDA2_8 Pin=X12-1
+Change Net Name : Old Net Name=+5V via amplifer New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetDA2_8 New Net Name=+5V via oper_amplifer

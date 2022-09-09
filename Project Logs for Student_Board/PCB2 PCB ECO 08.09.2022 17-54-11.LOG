@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=Radio_bug Member=R5
+Removed Member From Class: ClassName=Operational_amplifier Member=R15
+Removed Member From Class: ClassName=Multivibrator Member=R25
+Added Pin To Net: NetName=NetC17_1 Pin=VT6-1
+Added Pin To Net: NetName=NetC16_1 Pin=VT7-1
+Added Member To Class: ClassName=DC-DC Member=Component R3 1
+Added Member To Class: ClassName=DC-DC Member=Component R4 180
+Added Member To Class: ClassName=Radio_bug Member=Component R7 10 ê
+Added Member To Class: ClassName=Radio_bug Member=Component R10 22
+Added Member To Class: ClassName=Radio_bug Member=Component R11 10 ê
+Added Member To Class: ClassName=Operational_amplifier Member=Component R17 1ê
+Added Member To Class: ClassName=Operational_amplifier Member=Component R22 10 ê
+Added Member To Class: ClassName=Operational_amplifier Member=Component R23 10 ê
+Added Member To Class: ClassName=Operational_amplifier Member=Component R24 1ê
+Added Member To Class: ClassName=Operational_amplifier Member=Component R26 1 ê
+Added Member To Class: ClassName=Multivibrator Member=Component R27 300
+Added Member To Class: ClassName=Radio_bug Member=Component VT1 BC847
+Added Member To Class: ClassName=Radio_bug Member=Component VT2 BC847
+Added Member To Class: ClassName=Amplifier Member=Component VT3 BC847A
+Added Member To Class: ClassName=Amplifier Member=Component X27 0 Îì

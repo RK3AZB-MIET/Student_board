@@ -1,0 +1,16 @@
+Change Physical Footprint: Designator=C5 Old Footprint=C_0805 New Footprint=C_0805
+Change Physical Footprint: Designator=C7 Old Footprint=C_0805 New Footprint=C_0805
+Change Physical Footprint: Designator=C13 Old Footprint=C_0805 New Footprint=C_0805
+Change Physical Footprint: Designator=HL3 Old Footprint=LED_0805_RED New Footprint=LED_0805_RED
+Change Physical Footprint: Designator=R4 Old Footprint=R_0805 New Footprint=R_0805
+Change Physical Footprint: Designator=R7 Old Footprint=R_0805 New Footprint=R_0805
+Change Physical Footprint: Designator=R10 Old Footprint=R_0805 New Footprint=R_0805
+Change Physical Footprint: Designator=R20 Old Footprint=R_0805 New Footprint=R_0805
+Change Physical Footprint: Designator=R21 Old Footprint=R_0805 New Footprint=R_0805
+Change Physical Footprint: Designator=R22 Old Footprint=R_0805 New Footprint=R_0805
+Change Physical Footprint: Designator=X2 Old Footprint=KT_1 New Footprint=KT_1
+Change Physical Footprint: Designator=X3 Old Footprint=KT_1 New Footprint=KT_1
+Change Physical Footprint: Designator=X7 Old Footprint=Solder_jumper New Footprint=Solder_jumper
+Change Physical Footprint: Designator=X10 Old Footprint=X_component New Footprint=X_component
+Change Physical Footprint: Designator=X16 Old Footprint=PLS-1 New Footprint=PLS-1
+Change Physical Footprint: Designator=XS1 Old Footprint=SKX3-3,5-13 New Footprint=SKX3-3,5-13

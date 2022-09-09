@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Operational_amplifier Member=R15
+Added Member To Class: ClassName=Amplifier Member=Component C9 10לך
+Added Member To Class: ClassName=Amplifier Member=Component R14 510
+Added Member To Class: ClassName=Amplifier Member=Component R15 100ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R16 1ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R18 1k
+Added Member To Class: ClassName=Operational_amplifier Member=Component R20 10 ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R22 10 ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R25 1 ך
+Added Member To Class: ClassName=Multivibrator Member=Component R28 27 ך

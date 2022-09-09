@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=NetHL1_1 Pin=VT1-1
+Removed Pin From Net: NetName=5V Pin=VT1-3
+Removed Pin From Net: NetName=NetC17_1 Pin=VT8-1
+Removed Pin From Net: NetName=NetC16_1 Pin=VT9-1
+Removed Pin From Net: NetName=GND Pin=X42-2
+Removed Member From Class: ClassName=USB_Protection Member=R3
+Removed Member From Class: ClassName=USB_Protection Member=R4
+Removed Member From Class: ClassName=USB_Protection Member=VT1
+Removed Member From Class: ClassName=USB_Protection Member=VT2
+Removed Member From Class: ClassName=Operational_amplifier Member=X27
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R21 NewDesignator=R19
+Change Component Designator: OldDesignator=R22 NewDesignator=R20
+Change Component Designator: OldDesignator=R23 NewDesignator=R21
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R25 NewDesignator=R23
+Change Component Designator: OldDesignator=R26 NewDesignator=R24
+Change Component Designator: OldDesignator=R27 NewDesignator=R25
+Change Component Designator: OldDesignator=R28 NewDesignator=R26
+Change Component Designator: OldDesignator=R29 NewDesignator=R27
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R31 NewDesignator=R29
+Change Component Designator: OldDesignator=R32 NewDesignator=R30
+Change Component Designator: OldDesignator=VT3 NewDesignator=VT1
+Change Component Designator: OldDesignator=VT4 NewDesignator=VT2
+Change Component Designator: OldDesignator=VT5 NewDesignator=VT3
+Change Component Designator: OldDesignator=VT6 NewDesignator=VT4
+Change Component Designator: OldDesignator=VT7 NewDesignator=VT5
+Change Component Designator: OldDesignator=VT8 NewDesignator=VT6
+Change Component Designator: OldDesignator=VT9 NewDesignator=VT7
+Added Component: Designator=FU1(FUSE 1812)
+Added Pin To Net: NetName=5V Pin=FU1-2
+Added Pin To Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=GND Pin=X4-1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR18_2
+Added Pin To Net: NetName=NetFU1_1 Pin=FU1-1
+Added Pin To Net: NetName=NetFU1_1 Pin=R2-1
+Added Pin To Net: NetName=NetFU1_1 Pin=X1-1
+Added Net: Name=NetFU1_1
+Added Member To Class: ClassName=USB_Protection Member=Component FU1 MF-MSMF020
+Added Member To Class: ClassName=DC-DC Member=Component X9 U-C
+Added Member To Class: ClassName=DC-DC Member=Component X12 0 ฮ์
+Added Member To Class: ClassName=DC-DC Member=Component X15 สา
+Added Member To Class: ClassName=Radio_bug Member=Component X19 สา
+Added Member To Class: ClassName=Amplifier Member=Component X24 สา
+Added Member To Class: ClassName=Amplifier Member=Component X26 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X28 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X30 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X32 0 ฮ์
+Added Member To Class: ClassName=Operational_amplifier Member=Component X36 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X38 สา
+Added Member To Class: ClassName=Multivibrator Member=Component X41 0 ฮ์
+Added Member To Class: ClassName=Multivibrator Member=Component X42 0 ฮ์
