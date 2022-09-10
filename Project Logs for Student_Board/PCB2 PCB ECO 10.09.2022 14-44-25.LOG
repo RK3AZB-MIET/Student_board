@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetVD2_2 Pin=VT3-1
+Removed Pin From Net: NetName=NetC10_1 Pin=VT3-2
+Removed Pin From Net: NetName=GND Pin=VT3-3
+Removed Member From Class: ClassName=Radio_bug Member=C11
+Removed Member From Class: ClassName=Amplifier Member=C15
+Removed Member From Class: ClassName=Operational_amplifier Member=C18
+Removed Member From Class: ClassName=Amplifier Member=VT3
+Added Component: Designator=VT?(SOT23)
+Added Pin To Net: NetName=NetC10_1 Pin=VT?-1
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=NetVD2_2 Pin=VT?-3
+Added Member To Class: ClassName=Radio_bug Member=Component C9 0,10
+Added Member To Class: ClassName=Amplifier Member=Component C10 10לך
+Added Member To Class: ClassName=Amplifier Member=Component C13 100 לך
+Added Member To Class: ClassName=Operational_amplifier Member=Component C14 10
+Added Member To Class: ClassName=Multivibrator Member=Component C17 10 לך
+Added Member To Class: ClassName=Amplifier Member=Component VT? BC847

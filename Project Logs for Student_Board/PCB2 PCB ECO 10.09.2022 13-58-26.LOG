@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Amplifier Member=C15
+Added Component: Designator=C9(C_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Capasitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V via radio_bug Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Member To Class: ClassName=Radio_bug Member=Component C9 0,10
+Added Member To Class: ClassName=Amplifier Member=Component C10 10לך
+Added Member To Class: ClassName=Amplifier Member=Component C13 100 לך
+Added Member To Class: ClassName=Operational_amplifier Member=Component C14 10
+Added Member To Class: ClassName=Multivibrator Member=Component C17 10 לך

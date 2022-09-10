@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=Amplifier Member=R18
+Added Component: Designator=R14(R_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(PJ-307)
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetC10_2 Pin=R14-2
+Added Pin To Net: NetName=GND Pin=XS1-1
+Added Pin To Net: NetName=NetR13_1 Pin=XS1-2
+Added Pin To Net: NetName=NetR14_1 Pin=XS1-5
+Added Member To Class: ClassName=Amplifier Member=Component R14 1ê
+Added Member To Class: ClassName=Amplifier Member=Component R16 100ê
+Added Member To Class: ClassName=Operational_amplifier Member=Component R17 1ê
+Added Member To Class: ClassName=Operational_amplifier Member=Component R19 1k
+Added Member To Class: ClassName=Operational_amplifier Member=Component R21 10 ê
+Added Member To Class: ClassName=Operational_amplifier Member=Component R24 1ê
+Added Member To Class: ClassName=Multivibrator Member=Component R27 300
+Added Member To Class: ClassName=Multivibrator Member=Component R29 27 ê
+Added Member To Class: ClassName=Amplifier Member=Component XS1 PJ-307

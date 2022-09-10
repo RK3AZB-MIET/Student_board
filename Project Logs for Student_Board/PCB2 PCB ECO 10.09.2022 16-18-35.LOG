@@ -1,0 +1,44 @@
+Removed Member From Class: ClassName=Radio_bug Member=C12
+Removed Member From Class: ClassName=Radio_bug Member=C13
+Removed Member From Class: ClassName=Amplifier Member=C16
+Removed Member From Class: ClassName=Amplifier Member=C17
+Removed Member From Class: ClassName=Operational_amplifier Member=C20
+Removed Member From Class: ClassName=Operational_amplifier Member=R14
+Removed Member From Class: ClassName=Multivibrator Member=R24
+Added Component: Designator=C6(C_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Capasitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Capasitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R72A104KA35D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_2 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Member To Class: ClassName=Radio_bug Member=Component C6 10n
+Added Member To Class: ClassName=Radio_bug Member=Component C8 10
+Added Member To Class: ClassName=Radio_bug Member=Component C9 47
+Added Member To Class: ClassName=Radio_bug Member=Component C11 0,1
+Added Member To Class: ClassName=Amplifier Member=Component C14 100 לך
+Added Member To Class: ClassName=Amplifier Member=Component C15 100 לך
+Added Member To Class: ClassName=Operational_amplifier Member=Component C18 0,10
+Added Member To Class: ClassName=Radio_bug Member=Component R11 100
+Added Member To Class: ClassName=Amplifier Member=Component R12 1ך
+Added Member To Class: ClassName=Amplifier Member=Component R13 1ך
+Added Member To Class: ClassName=Amplifier Member=Component R15 100ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R16 1ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R18 1k
+Added Member To Class: ClassName=Operational_amplifier Member=Component R20 10 ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R22 10 ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R23 1ך
+Added Member To Class: ClassName=Operational_amplifier Member=Component R25 1 ך
+Added Member To Class: ClassName=Multivibrator Member=Component R26 300
+Added Member To Class: ClassName=Multivibrator Member=Component R28 27 ך

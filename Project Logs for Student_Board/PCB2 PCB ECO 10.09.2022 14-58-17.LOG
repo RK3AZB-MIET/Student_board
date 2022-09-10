@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC12_1 Pin=VT4-1
+Removed Pin From Net: NetName=NetR14_1 Pin=VT4-2
+Removed Pin From Net: NetName=NetR14_1 Pin=VT4-2
+Change Component Comment : Designator=VT4 Old Comment=BCX54-16 New Comment=BCX54-16,115
+Added Pin To Net: NetName=NetR14_1 Pin=VT4-1
+Added Pin To Net: NetName=NetC12_1 Pin=VT4-2
+Added Pin To Net: NetName=NetC12_1 Pin=VT4-2
