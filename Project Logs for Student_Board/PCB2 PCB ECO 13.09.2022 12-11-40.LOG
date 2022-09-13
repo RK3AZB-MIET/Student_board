@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C7 Old Footprint=C_0805 New Footprint=Kา4-35
+Change Component Comment : Designator=C7 Old Comment=10 New Comment=สา4-35
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C_0805"; UniqueID = "\ONPWTUJV" ("\ONPWTUJV")

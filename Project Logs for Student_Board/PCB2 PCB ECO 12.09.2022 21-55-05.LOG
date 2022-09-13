@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=XS1-1
+Removed Pin From Net: NetName=NetR12_1 Pin=XS1-2
+Removed Pin From Net: NetName=NetR13_1 Pin=XS1-5
+Change Component Footprint: Designator=XS1 Old Footprint=PJ-307 New Footprint=CKX3-3.5-26
+Change Component Comment : Designator=XS1 Old Comment=PJ-307 New Comment=CKX3-3.5-26
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=NetR12_1 Pin=XS1-3
+Added Pin To Net: NetName=NetR13_1 Pin=XS1-4

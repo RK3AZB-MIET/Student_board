@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=VT2 Old Footprint=SOT23 New Footprint=SOT-323
+Change Component Comment : Designator=C19 Old Comment=10 לך New Comment=100 לך
+Change Component Comment : Designator=C20 Old Comment=10 לך New Comment=100 לך
+Change Component Comment : Designator=VT2 Old Comment=BC847 New Comment=PMST2369
+Change Component Comment : Designator=VT5 Old Comment=BCX54-16,115 New Comment=BCX51-16,115
