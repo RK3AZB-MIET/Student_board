@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=X5 Old Footprint=X_component New Footprint=X_component
+Change Physical Footprint: Designator=X6 Old Footprint=double_jumper New Footprint=double_jumper
+Change Physical Footprint: Designator=X8 Old Footprint=double_jumper New Footprint=double_jumper
+Change Physical Footprint: Designator=X9 Old Footprint=X_component New Footprint=X_component
+Change Physical Footprint: Designator=X10 Old Footprint=X_component New Footprint=X_component
+Change Physical Footprint: Designator=X31 Old Footprint=double_jumper New Footprint=double_jumper

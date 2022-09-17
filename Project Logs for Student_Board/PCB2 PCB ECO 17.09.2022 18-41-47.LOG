@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=USB_Protection Member=VD2
+Removed Member From Class: ClassName=Operational_amplifier Member=X18
+Removed Member From Class: ClassName=Operational_amplifier Member=X21
+Removed Member From Class: ClassName=Multivibrator Member=X25
+Change Component Footprint: Designator=VD1 Old Footprint=DO-214AC New Footprint=SOD-123F
+Added Member To Class: ClassName=Operational_amplifier Member=Component C20 0,10
+Added Member To Class: ClassName=USB_Protection Member=Component VD1 SMF7.0A
+Added Member To Class: ClassName=Operational_amplifier Member=Component X22 สา
+Added Member To Class: ClassName=Operational_amplifier Member=Component X27 0 ฮ์
+Added Member To Class: ClassName=Multivibrator Member=Component X31 0 ฮ์

@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=C19 NewDesignator=C20
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD3
+Change Component Designator: OldDesignator=X14 NewDesignator=X12
+Change Component Designator: OldDesignator=X15 NewDesignator=X13
+Change Component Designator: OldDesignator=X16 NewDesignator=X14
+Change Component Designator: OldDesignator=X17 NewDesignator=X15
+Change Component Designator: OldDesignator=X18 NewDesignator=X16
+Change Component Designator: OldDesignator=X19 NewDesignator=X17
+Change Component Designator: OldDesignator=X22 NewDesignator=X18
+Change Component Designator: OldDesignator=X25 NewDesignator=X19
+Change Component Designator: OldDesignator=X26 NewDesignator=X20
+Change Component Designator: OldDesignator=X27 NewDesignator=X21
+Change Component Designator: OldDesignator=X28 NewDesignator=X22
+Change Component Designator: OldDesignator=X29 NewDesignator=X23
+Change Component Designator: OldDesignator=X30 NewDesignator=X24
+Change Component Designator: OldDesignator=X31 NewDesignator=X25
+Change Component Designator: OldDesignator=X32 NewDesignator=X26
+Change Component Designator: OldDesignator=X33 NewDesignator=X27
+Change Component Designator: OldDesignator=X34 NewDesignator=X28
+Change Component Designator: OldDesignator=X36 NewDesignator=X30
+Change Component Designator: OldDesignator=X37 NewDesignator=X29
+Change Component Designator: OldDesignator=X41 NewDesignator=X31
+Change Component Designator: OldDesignator=X42 NewDesignator=X32
+Added Component: Designator=VD1(DO-214AC)
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=5V Pin=VD1-2
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetVD1_2 New Net Name=NetVD2_2
+Change Net Name : Old Net Name=NetVD2_2 New Net Name=NetVD3_2
+Change Net Name : Old Net Name=NetX29_1 New Net Name=NetX23_1
+Added Member To Class: ClassName=USB_Protection Member=Component VD1 SMF7.0A

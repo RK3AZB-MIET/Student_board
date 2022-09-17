@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=X12-1
+Removed Pin From Net: NetName=GND Pin=X13-1
+Removed Pin From Net: NetName=+5V via radio_bug Pin=X20-1
+Removed Pin From Net: NetName=GND Pin=X21-1
+Removed Pin From Net: NetName=NetC15_1 Pin=X23-1
+Removed Pin From Net: NetName=GND Pin=X24-1
+Removed Pin From Net: NetName=+5V via oper_amplifer Pin=X35-1
+Removed Pin From Net: NetName=GND Pin=X38-1
+Removed Pin From Net: NetName=+5V via multi Pin=X39-1
+Removed Pin From Net: NetName=GND Pin=X40-1
+Removed Member From Class: ClassName=DC-DC Member=X12
+Removed Member From Class: ClassName=DC-DC Member=X13
+Removed Member From Class: ClassName=Radio_bug Member=X20
+Removed Member From Class: ClassName=Radio_bug Member=X21
+Removed Member From Class: ClassName=Amplifier Member=X23
+Removed Member From Class: ClassName=Amplifier Member=X24
+Removed Member From Class: ClassName=Operational_amplifier Member=X35
+Removed Member From Class: ClassName=Operational_amplifier Member=X38
+Removed Member From Class: ClassName=Multivibrator Member=X39
+Removed Member From Class: ClassName=Multivibrator Member=X40

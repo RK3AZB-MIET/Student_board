@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=DC-DC Member=C6
+Removed Member From Class: ClassName=Radio_bug Member=C14
+Removed Member From Class: ClassName=Operational_amplifier Member=C21
+Removed Member From Class: ClassName=Operational_amplifier Member=C22
+Change Component Footprint: Designator=VD2 Old Footprint=SOD-123F New Footprint=SOD-80
+Added Member To Class: ClassName=DC-DC Member=Component C4 0,1
+Added Member To Class: ClassName=Radio_bug Member=Component C5 0,1 לך
+Added Member To Class: ClassName=Radio_bug Member=Component C10 Êׂ4-35
+Added Member To Class: ClassName=Radio_bug Member=Component C11 10
+Added Member To Class: ClassName=Radio_bug Member=Component C12 0,1
+Added Member To Class: ClassName=Amplifier Member=Component C13 10לך
+Added Member To Class: ClassName=Amplifier Member=Component C15 100 לך
+Added Member To Class: ClassName=Operational_amplifier Member=Component C17 10
+Added Member To Class: ClassName=Operational_amplifier Member=Component C19 0,10
+Added Member To Class: ClassName=Operational_amplifier Member=Component C20 0,1
+Added Member To Class: ClassName=DC-DC Member=Component X11 0 ־ל
+Added Member To Class: ClassName=DC-DC Member=Component X14 Êׂ
