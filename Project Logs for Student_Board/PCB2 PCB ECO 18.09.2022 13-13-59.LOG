@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=Operational_amplifier Member=R5
+Removed Member From Class: ClassName=DC-DC Member=R9
+Removed Member From Class: ClassName=Radio_bug Member=R15
+Removed Member From Class: ClassName=Amplifier Member=R17
+Removed Member From Class: ClassName=Amplifier Member=X8
+Removed Member From Class: ClassName=Operational_amplifier Member=X10
+Removed Member From Class: ClassName=Operational_amplifier Member=X12
+Removed Member From Class: ClassName=Operational_amplifier Member=X15
+Change Component Footprint: Designator=XS1 Old Footprint=CKX3-3.5-26 New Footprint=SKX3-3,5-13
+Change Component Comment : Designator=R5 Old Comment=0? New Comment=0
+Change Component Comment : Designator=XS1 Old Comment=CKX3-3.5-26 New Comment=SKX3-3,5-13
+Added Pin To Net: NetName=NetC19_1 Pin=X5-1
+Change Net Name : Old Net Name=NetC19_1 New Net Name=+5V via oper_amplifer
+Added Member To Class: ClassName=DC-DC Member=Component R5 0
+Added Member To Class: ClassName=DC-DC Member=Component R6 10 Í
+Added Member To Class: ClassName=DC-DC Member=Component R7 10 Í
+Added Member To Class: ClassName=Radio_bug Member=Component R8 10 Í
+Added Member To Class: ClassName=Radio_bug Member=Component R10 4.7Í
+Added Member To Class: ClassName=Radio_bug Member=Component R12 100
+Added Member To Class: ClassName=Amplifier Member=Component R13 1Í
+Added Member To Class: ClassName=Amplifier Member=Component R14 1Í
+Added Member To Class: ClassName=Amplifier Member=Component R16 100Í
+Added Member To Class: ClassName=Operational_amplifier Member=Component R19 0?
+Added Member To Class: ClassName=Amplifier Member=Component X14  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X16  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X18  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X21  “
+Added Member To Class: ClassName=Operational_amplifier Member=Component X23  “
