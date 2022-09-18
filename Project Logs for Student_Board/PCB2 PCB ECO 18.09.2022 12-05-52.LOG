@@ -1,0 +1,10 @@
+Added Component: Designator=R?(R_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT_GND Pin=R?-1
+Added Pin To Net: NetName=OUT Pin=R?-2
+Added Member To Class: ClassName=DC-DC Member=Component R? 0?

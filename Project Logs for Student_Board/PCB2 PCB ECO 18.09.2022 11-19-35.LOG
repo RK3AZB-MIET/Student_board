@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=+5V via oper_amplifer Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Pin From Net: NetName=OUT Pin=X6-1
+Removed Pin From Net: NetName=GND Pin=X6-3
+Removed Pin From Net: NetName=NetX7_1 Pin=X8-1
+Removed Pin From Net: NetName=GND Pin=X8-3
+Removed Pin From Net: NetName=+5V via oper_amplifer Pin=X11-1
+Removed Pin From Net: NetName=NetDA2_3 Pin=X25-2
+Removed Member From Class: ClassName=Operational_amplifier Member=R17
+Removed Member From Class: ClassName=Operational_amplifier Member=R18
+Removed Member From Class: ClassName=DC-DC Member=X6
+Removed Member From Class: ClassName=DC-DC Member=X8
+Removed Member From Class: ClassName=Operational_amplifier Member=X25
+Change Component Footprint: Designator=X11 Old Footprint=jumper New Footprint=PLS-2
+Change Component Footprint: Designator=X14 Old Footprint=jumper New Footprint=PLS-2
+Change Component Footprint: Designator=X15 Old Footprint=jumper New Footprint=PLS-2
+Change Component Footprint: Designator=X16 Old Footprint=jumper New Footprint=PLS-2
+Change Component Footprint: Designator=X18 Old Footprint=jumper New Footprint=PLS-2
+Change Component Footprint: Designator=X21 Old Footprint=jumper New Footprint=PLS-2
+Change Component Footprint: Designator=X26 Old Footprint=jumper New Footprint=PLS-2
+Change Component Footprint: Designator=X27 Old Footprint=jumper New Footprint=PLS-2
+Change Component Footprint: Designator=X31 Old Footprint=jumper New Footprint=PLS-2
+Change Component Footprint: Designator=X32 Old Footprint=jumper New Footprint=PLS-2
+Added Component: Designator=R?(R_0805)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CR0603-FX-1002ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 ê"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA2_3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetDA2_3 Pin=X23-1
+Change Net Name : Old Net Name=+5V via oper_amplifer New Net Name=NetC19_1
+Added Pin To Net: NetName=+5V via oper_amplifer Pin=X11-1
+Added Net: Name=+5V via oper_amplifer
+Added Pin To Net: NetName=OUT_GND Pin=C2-1
+Added Pin To Net: NetName=OUT_GND Pin=C3-2
+Added Pin To Net: NetName=OUT_GND Pin=DA1-4
+Added Pin To Net: NetName=OUT_GND Pin=R6-2
+Added Net: Name=OUT_GND
+Added Member To Class: ClassName=Operational_amplifier Member=Component R? 0?
+Added Room: Name=DC-DC

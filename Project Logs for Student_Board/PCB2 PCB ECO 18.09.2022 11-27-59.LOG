@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=DC-DC Member=X7
+Change Net Name : Old Net Name=NetDA1_7 New Net Name=Vin
+Added Pin To Net: NetName=C Pin=DA1-1
+Added Net: Name=C
+Added Pin To Net: NetName=E Pin=DA1-2
+Added Net: Name=E
+Added Pin To Net: NetName=NetX9_2 Pin=X9-2
+Added Pin To Net: NetName=NetX9_2 Pin=X10-1
+Added Net: Name=NetX9_2
