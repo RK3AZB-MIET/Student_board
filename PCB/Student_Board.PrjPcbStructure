@@ -1,5 +1,6 @@
 Record=TopLevelDocument|FileName=Amplifier.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=DC-DC.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Main.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Multivibrator.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Operational_amplifier.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Radio_bug.SchDoc|SheetNumber=3
